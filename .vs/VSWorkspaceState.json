@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BarberConect",
+    "\\BarberConect\\Controllers",
+    "\\BarberConect\\DAL",
+    "\\BarberConect\\DAL\\Entities"
+  ],
+  "SelectedNode": "\\BarberConect\\Controllers\\AppointmentReservationController.cs",
+  "PreviewInSolutionExplorer": false
+}
